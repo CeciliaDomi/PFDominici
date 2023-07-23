@@ -8,18 +8,21 @@ Desarrollo Web
 Profesora: Laura Avalle
 Tutor: Timoteo Gambella
 
-👩‍💻 PRE-ENTREGA 3 //
-+ Realizar la estructura final de la web.
-+ Efectuar el estilo avanzado de la web (aplicar transformaciones, transiciones y/o animaciones).
+👩‍💻 PROYECTO FINAL //
++ Realizar la estructura final de la web. (Archivos HTML)
++ Efectuar final de la web. (Archivos CSS + SCSS)
 + Realizar una correcta implementación de SASS.
 + Aplicar técnicas de SEO.
 + Generar la carga en un repositorio en GitHub.
++ Subida a un servidor.
 
 ---------------------------------------------------
 
-✅ Link del repo:  https://github.com/CeciliaDomi/PreEntrega3Dominici.git
+✅ Link del Repo:  https://github.com/CeciliaDomi/PFDominici.git
 
-✅ Link de Page: https://ceciliadomi.github.io/PreEntrega3Dominici/
+✅ Link de Page: 
+
+✅ Link de Servidor:
 
 
 ---------------------------------------------------
@@ -32,6 +35,8 @@ Tutor: Timoteo Gambella
 - Uso de transiciones, transform y animaciones.
 - Uso de mixins y extends.
 - Uso de técncias de SEO.
+- Uso de links a pagina de Error404.
+
 
 ▶ Page /contacto.html
 - Uso de FlexBox
@@ -39,6 +44,7 @@ Tutor: Timoteo Gambella
 - Uso de transiciones, transform y animaciones.
 - Uso de mixins y extends.
 - Uso de técncias de SEO.
+- Uso de links a pagina de Error404.
 
 ▶ Page /tienda.html
 - Uso de Grid
@@ -47,6 +53,7 @@ Tutor: Timoteo Gambella
 - Uso de transiciones, transform y animaciones.
 - Uso de mixins y extends.
 - Uso de técncias de SEO.
+- Uso de links a pagina de Error404.
 
 ▶ Page /quienessomos.html
 - Uso de Flexbox
@@ -54,11 +61,13 @@ Tutor: Timoteo Gambella
 - Uso de transiciones, transform y animaciones.
 - Uso de mixins y extends.
 - Uso de técncias de SEO.
+- Uso de links a pagina de Error404.
 
 ▶ Page /sostenibilidad.html
 - Uso de Flexbox.
 - Uso de transiciones, transform y animaciones.
 - Uso de mixins y extends.
 - Uso de técncias de SEO.
+- Uso de links a pagina de Error404.
 
 ---------------------------------------------------

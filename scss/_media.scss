@@ -109,14 +109,14 @@
 
     .icono-serv {
         width: 90%;
-        @include flex(row,space-around,center);
+        @include flex(wrap,space-around,center);
         margin: 5px 0;
         transition: transform .2s;
         img {
             padding: 5px;
             transition: transform .2s;
-            width: 220px;
-            height: 220px;
+            width: 200px;
+            height: 200px;
             margin: 0 auto;
         }
     }
